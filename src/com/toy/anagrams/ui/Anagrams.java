@@ -40,6 +40,7 @@ import javax.swing.SwingUtilities;
 
 /**
  * Main window of the Anagram Game application.
+ * @author Netbeans Team 
  */
 public class Anagrams extends JFrame {
 
